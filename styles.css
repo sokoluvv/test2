@@ -21,6 +21,7 @@ body {
     display: block;
     text-decoration: none;
     color: black;
+    border: 1px black solid;
 }
 .card-img {
     width: 100%;
